@@ -2,7 +2,7 @@
 
 Recursos necessários:
 
-- [Jupyter Notebook](https://www.docker.com/)
+- [Jupyter Notebook](https://jupyter.org/)
 - [Python 3](https://hub.docker.com/)
 - [Pandas](#link)
 - [Selenium](#link)
