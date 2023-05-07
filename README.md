@@ -9,7 +9,7 @@ Recursos necessários:
 - [Seaborn](https://www.python-graph-gallery.com/seaborn/)
 
 ## <a id="instalacao">🔨 Instalação do Ambiente</a>
- Para rodar os códigos, foram feitos na plataforma Google Colabs.A melhor escolha pois o ambiente já esta totalmente configurado e o processamento fica todo na nuvem. Para conhecer o [Google Colabs](https://docs.github.com/en/codespaces/developing-in-codespaces/opening-an-existing-codespace/)
+ Para rodar os códigos, foram feitos na plataforma Google Colabs.A melhor escolha pois o ambiente já esta totalmente configurado e o processamento fica todo na nuvem. Para conhecer o [Google Colabs](https://colab.research.google.com/)
 
 No codespace abra um terminal ou teclas use <kbd>Ctrl</kbd> + <kbd>'</kbd> 
 Vamos ver antes se existem imagens criadas, só para verificar
