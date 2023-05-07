@@ -3,8 +3,7 @@
 Recursos necessários:
 
 - [Jupyter Notebook](https://jupyter.org/)
-- [Python 3](
-- [Pandas](#link)
+- [Python] 3](https://www.python.org/download/releases/3.0/) [Pandas](https://pypi.org/project/pandas/)
 - [Selenium](#link)
 
 ## <a id="instalacao">🔨 Instalação do Ambiente</a>
