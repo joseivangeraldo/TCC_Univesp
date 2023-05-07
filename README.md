@@ -6,7 +6,7 @@ Recursos necessários:
 - [Python 3](https://www.python.org/download/releases/3.0/)
 - [Pandas](https://pypi.org/project/pandas/)
 - [NumPy](https://numpy.org/)
-- (Seaborn)[https://www.python-graph-gallery.com/seaborn/]
+- [Seaborn](https://www.python-graph-gallery.com/seaborn/)
 
 ## <a id="instalacao">🔨 Instalação do Ambiente</a>
  Instalação Imagem Docker, para programar páginas diretamente em um servidor Web.
