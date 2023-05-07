@@ -3,7 +3,7 @@
 Recursos necessários:
 
 - [Jupyter Notebook](https://jupyter.org/)
-- [Python] 3](https://www.python.org/download/releases/3.0/)
+- [Python 3](https://www.python.org/download/releases/3.0/)
 - [Pandas](https://pypi.org/project/pandas/)
 - [Selenium](#link)
 
