@@ -12,5 +12,5 @@ Recursos necessários:
  Para rodar os códigos, foram feitos na plataforma Google Colabs.A melhor escolha pois o ambiente já esta totalmente configurado e o processamento fica todo na nuvem. Para conhecer o [Google Colabs](https://colab.research.google.com/)
  
  
-## <a id="instalacao">🔨Descrição</a>
+## <a id="instalacao">U+270F Descrição</a>
 Os arquivos podem ser encontrados na pasta raiz deste repositório.Pode ser feita uma copia pelo Google Colabs.
